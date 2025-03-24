@@ -19,6 +19,12 @@ ghwbg bydthcbc принцип инверсис: данны     прицип гл
  git commit "Название"
  git push origin
 
+dgfdxfgdcjg
+
+nhgfjhgf
+ngvjh
+
+
  git checkout -b Название ветки от какой ветки наследуемся
  пример git checkout dev master
  git commit -am "Название"
